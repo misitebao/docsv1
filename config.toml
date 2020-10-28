@@ -1,6 +1,6 @@
 # Cancel the domain name binding, for multi site universal
 # baseURL = "https://wails.app/"
-languageCode = "en-us"
+# languageCode = "en-us"
 title = "Wails"
 googleAnalytics = "UA-139310949-1"
 theme = "hugo-theme-learn"
